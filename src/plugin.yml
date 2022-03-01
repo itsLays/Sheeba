@@ -1,0 +1,21 @@
+name: Shiba
+main: rip.aurora.Shiba
+version: 1.5
+description: Created by Lays
+commands:
+  Diamond:
+    description: This command gives you a stack of Diamonds
+    usage: /diamond
+    permission: Shiba.diamond
+  Iron:
+    description: This command gives you a stack of Iron
+    usage: /iron
+    permission: Shiba.iron
+  Heal:
+    description: This command Heals you
+    usage: /heal
+    permission: Shiba.heal
+  Feed:
+    description: This command Feeds you
+    usage: /feed
+    permission: Shiba.feed

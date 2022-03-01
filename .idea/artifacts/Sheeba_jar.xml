@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Sheeba:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Sheeba_jar</output-path>
+    <root id="archive" name="Sheeba.jar">
+      <element id="module-output" name="Sheeba" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+    </root>
+  </artifact>
+</component>
